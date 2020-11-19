@@ -1,12 +1,10 @@
 [
   {
     "id": "category1",
-    "name": "category1",
-    "description": "description"
+    "name": "category1"
   },
   {
     "id": "category4",
-    "name": "category4",
-    "description": "description"
+    "name": "category4"
   }
 ]
