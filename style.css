@@ -139,3 +139,12 @@ footer {
   justify-content: space-between;
   background: rgb(230, 230, 230);
 }
+
+.products-panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.products-panel > *:nth-child(2) {
+  flex-grow: 1;
+}
